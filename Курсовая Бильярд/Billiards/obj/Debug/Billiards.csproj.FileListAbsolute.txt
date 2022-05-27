@@ -1,0 +1,24 @@
+C:\Users\79627\OneDrive\Рабочий стол\Курсовая Бильярд\Billiards\bin\Debug\Billiards.exe.config
+C:\Users\79627\OneDrive\Рабочий стол\Курсовая Бильярд\Billiards\bin\Debug\Billiards.exe
+C:\Users\79627\OneDrive\Рабочий стол\Курсовая Бильярд\Billiards\bin\Debug\Billiards.pdb
+C:\Users\79627\OneDrive\Рабочий стол\Курсовая Бильярд\Billiards\obj\Debug\Billiards.csprojAssemblyReference.cache
+C:\Users\79627\OneDrive\Рабочий стол\Курсовая Бильярд\Billiards\obj\Debug\Billiards.FormMenu.resources
+C:\Users\79627\OneDrive\Рабочий стол\Курсовая Бильярд\Billiards\obj\Debug\Billiards.Billiard.resources
+C:\Users\79627\OneDrive\Рабочий стол\Курсовая Бильярд\Billiards\obj\Debug\Billiards.Properties.Resources.resources
+C:\Users\79627\OneDrive\Рабочий стол\Курсовая Бильярд\Billiards\obj\Debug\Billiards.csproj.GenerateResource.cache
+C:\Users\79627\OneDrive\Рабочий стол\Курсовая Бильярд\Billiards\obj\Debug\Billiards.csproj.CoreCompileInputs.cache
+C:\Users\79627\OneDrive\Рабочий стол\Курсовая Бильярд\Billiards\obj\Debug\Billiards.exe
+C:\Users\79627\OneDrive\Рабочий стол\Курсовая Бильярд\Billiards\obj\Debug\Billiards.pdb
+C:\Users\79627\source\repos\Курсовая Бильярд\Billiards\bin\Debug\Billiards.exe.config
+C:\Users\79627\source\repos\Курсовая Бильярд\Billiards\bin\Debug\Billiards.exe
+C:\Users\79627\source\repos\Курсовая Бильярд\Billiards\bin\Debug\Billiards.pdb
+C:\Users\79627\source\repos\Курсовая Бильярд\Billiards\obj\Debug\Billiards.csprojAssemblyReference.cache
+C:\Users\79627\source\repos\Курсовая Бильярд\Billiards\obj\Debug\Billiards.FormMenu.resources
+C:\Users\79627\source\repos\Курсовая Бильярд\Billiards\obj\Debug\Billiards.Billiard.resources
+C:\Users\79627\source\repos\Курсовая Бильярд\Billiards\obj\Debug\Billiards.Properties.Resources.resources
+C:\Users\79627\source\repos\Курсовая Бильярд\Billiards\obj\Debug\Billiards.csproj.GenerateResource.cache
+C:\Users\79627\source\repos\Курсовая Бильярд\Billiards\obj\Debug\Billiards.csproj.CoreCompileInputs.cache
+C:\Users\79627\source\repos\Курсовая Бильярд\Billiards\obj\Debug\Billiards.exe
+C:\Users\79627\source\repos\Курсовая Бильярд\Billiards\obj\Debug\Billiards.pdb
+C:\Users\79627\source\repos\Курсовая Бильярд\Billiards\obj\Debug\Billiards.LoadSave.resources
+C:\Users\79627\source\repos\Курсовая Бильярд\Billiards\obj\Debug\Billiards.OpenSave.resources
